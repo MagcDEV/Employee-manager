@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignore all build output directories.
+build/
+dist/
+
+**/*.jar
